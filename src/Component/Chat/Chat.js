@@ -16,7 +16,7 @@ function Chat() {
         <Avatar src="https://www.vippng.com/png/detail/366-3660934_business-man-business-man-face-png.png" />
         <div className="chat__headerInfo">
           <h3>Tony</h3>
-          <p>Last seen at...</p>
+          <p>Last seen at....</p>
         </div>
         <div className="chat__headerRight">
           <IconButton>
